@@ -3,9 +3,8 @@
 OpenAI APIを使って動作する、**シンプルなCLI対話型AIエージェント**です。  
 ターミナルから直接AIと会話できます。
 
-### 1️⃣ リポジトリをクローン
-
 ```bash
+1️⃣ リポジトリをクローン
 git clone https://github.com/あなたのユーザー名/Agent_AI.git
 cd Agent_AI
 
