@@ -1,0 +1,15 @@
+# シェル設定ファイルを除外
+.zshrc
+.bashrc
+.profile
+
+# 仮想環境を除外
+venv/
+__pycache__/
+
+# macOSやVSCodeなどの一時ファイル
+.DS_Store
+.vscode/
+
+# APIキーや環境設定ファイル
+.env
